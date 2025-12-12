@@ -1,0 +1,2 @@
+Win + C
+shell:sendto
